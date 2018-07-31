@@ -1,18 +1,18 @@
 <?php
 /**
- * MyBB 1.8 English Language Pack
+ * MyBB 1.8 Turkish Language Pack
  * Copyright 2014 MyBB Group, All Rights Reserved
  *
  */
 
 // The friendly name of the language
-$langinfo['name'] = "English (American)";
+$langinfo['name'] = "Türkçe (TR)";
 
 // The author of the language
 $langinfo['author'] = "MyBB Group";
 
 // The language authors website
-$langinfo['website'] = "http://www.mybb.com/";
+$langinfo['website'] = "http://www.mybbcodex.com/";
 
 // Compatible version of MyBB
 $langinfo['version'] = "1800";
@@ -24,7 +24,7 @@ $langinfo['admin'] = 1;
 $langinfo['rtl'] = 0;
 
 // Sets the lang in the <html> on all pages
-$langinfo['htmllang'] = "en";
+$langinfo['htmllang'] = "tr";
 
 // Sets the character set, blank uses the default.
 $langinfo['charset'] = "UTF-8";
